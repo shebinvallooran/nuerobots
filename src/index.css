@@ -1,13 +1,128 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: black;
+  color: white;
+}
+.ValuableServiceSub{
+  width: 386px;
+  height: 167px;
+  margin-top: 20px;
+}
+.valuableServicesIcons{
+  margin-right: 9px;
+  margin-top: 6px;
+}
+.space{
+  margin-left: 50px;
+}
+.section2Main{
+  width: 1512px;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  /* background-color: aliceblue; */
+}
+/* section 2 */
+.SpotLightWorkSection{
+  width: 794px;
+  height: 400px;
+}
+.firstPart{
+  margin-top: 10rem;
+}
+/* section 3 */
+.WhitePart{
+  height: 1600px;
+  width: 100%;
+  background-color: white;
+}
+.firstCard{
+  background-color: rgba(64, 64, 64, 1);
+  position:absolute;
+  margin-left: 100px;
+}
+.greyBackground{
+  background-color: rgba(64, 64, 64, 1);
+}
+.secondCard{
+  background-color: white;
+  margin-left: 50px;
+}
+.card{
+  /* margin-left: 40px; */
+  height: 400px;
+  width: 300px;
+  /* border: solid; */
+  box-shadow: 1px 1px 1px 1px #888888;
+  /* position: absolute; */
+}
+.image{
+  object-fit: cover;
+  width: 150px;
+  border-radius: 50%;
+  
+}
+.div1{
+  height: 100px;
+  width: 100%;
+}
+.IncaedFirstPart{
+  height: 200px;
+  width: 300px;
+}
+.forCardImage{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  
+}
+.SecondCard{
+  margin-top: 50px;
+}
+/* cards align */
+.card1{
+  /* margin-bottom: 100px; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card2{
+  /* margin-bottom: 100px; */
 }
+.card3{
+  margin-top: 100px;
+}
+.card4{
+  /* margin-bottom: 100px; */
+}
+.card5{
+  margin-top: 100px;
+}
+.card6{
+  margin-top: 100px;
+
+}
+.card8{
+  margin-top: 100px;
+}
+
+
+
+
+/* color */
+.colors22{
+  background-color: pink;
+  border-radius: 200px 100px 200PX 100PX;
+}
+/* footer */
+.footer{
+  background-color: black;
+}
+.footerSecondPart{
+  width: 100%;
+  height: 569px;
+  background-color: white;
+}
+
